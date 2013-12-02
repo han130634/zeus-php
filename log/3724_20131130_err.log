@@ -1,0 +1,132 @@
+[IP] 127.0.0.1 [TIME] 10:22:45 [MSG] PHP Error  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.  D:\workspace\project\zeus\zeus.lib\zeus\utils\Log.php  21type   = PHP Error
+code    = 2
+message = PHP Error  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.  D:\workspace\project\zeus\zeus.lib\zeus\utils\Log.php  21
+file    = D:\workspace\project\zeus\zeus.lib\zeus\utils\Log.php
+line    = 21
+
+[IP] 127.0.0.1 [TIME] 18:23:55 [MSG] PHP Error  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.  D:\workspace\project\zeus\zeus.lib\zeus\utils\Log.php  21type   = PHP Error
+code    = 2
+message = PHP Error  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.  D:\workspace\project\zeus\zeus.lib\zeus\utils\Log.php  21
+file    = D:\workspace\project\zeus\zeus.lib\zeus\utils\Log.php
+line    = 21
+
+[IP] 127.0.0.1 [TIME] 18:24:24 [MSG] PHP Error  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.  D:\workspace\project\zeus\zeus.lib\zeus\utils\Log.php  21type   = PHP Error
+code    = 2
+message = PHP Error  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.  D:\workspace\project\zeus\zeus.lib\zeus\utils\Log.php  21
+file    = D:\workspace\project\zeus\zeus.lib\zeus\utils\Log.php
+line    = 21
+
+[IP] 127.0.0.1 [TIME] 18:24:46 [MSG] PHP Error  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.  D:\workspace\project\zeus\zeus.lib\zeus\utils\Log.php  21type   = PHP Error
+code    = 2
+message = PHP Error  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.  D:\workspace\project\zeus\zeus.lib\zeus\utils\Log.php  21
+file    = D:\workspace\project\zeus\zeus.lib\zeus\utils\Log.php
+line    = 21
+
+[IP] 127.0.0.1 [TIME] 19:37:08 [MSG] 111
+#0 D:\workspace\project\zeus\web\index.php(45): test->a()
+#1 {main}type   = Exception
+code    = 0
+message = 111
+#0 D:\workspace\project\zeus\web\index.php(45): test->a()
+#1 {main}
+file    = D:\workspace\project\zeus\web\index.php
+line    = 39
+
+[IP] 127.0.0.1 [TIME] 20:04:08 [MSG] PHP Error  Undefined variable: _controller  D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php  94type   = PHP Error
+code    = 8
+message = PHP Error  Undefined variable: _controller  D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php  94
+file    = D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php
+line    = 94
+
+[IP] 127.0.0.1 [TIME] 20:04:26 [MSG] PHP Error  Object of class helloword\index could not be converted to string  D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php  94type   = PHP Error
+code    = 4096
+message = PHP Error  Object of class helloword\index could not be converted to string  D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php  94
+file    = D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php
+line    = 94
+
+[IP] 127.0.0.1 [TIME] 20:05:10 [MSG] helloword\index->index not found 
+#0 D:\workspace\project\zeus\web\index.php(6): zeus\Zeus->doDispath()
+#1 {main}type   = Exception
+code    = 0
+message = helloword\index->index not found 
+#0 D:\workspace\project\zeus\web\index.php(6): zeus\Zeus->doDispath()
+#1 {main}
+file    = D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php
+line    = 94
+
+[IP] 127.0.0.1 [TIME] 20:06:12 [MSG] PHP Error  Undefined variable: _controller  D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php  79type   = PHP Error
+code    = 8
+message = PHP Error  Undefined variable: _controller  D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php  79
+file    = D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php
+line    = 79
+
+[IP] 127.0.0.1 [TIME] 20:06:13 [MSG] PHP Error  Undefined variable: _controller  D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php  79type   = PHP Error
+code    = 8
+message = PHP Error  Undefined variable: _controller  D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php  79
+file    = D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php
+line    = 79
+
+[IP] 127.0.0.1 [TIME] 20:06:20 [MSG] helloword\index->index not found 
+#0 D:\workspace\project\zeus\web\index.php(6): zeus\Zeus->doDispath()
+#1 {main}type   = Exception
+code    = 0
+message = helloword\index->index not found 
+#0 D:\workspace\project\zeus\web\index.php(6): zeus\Zeus->doDispath()
+#1 {main}
+file    = D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php
+line    = 95
+
+[IP] 127.0.0.1 [TIME] 20:07:29 [MSG] PHP Error  Undefined variable: _action  D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php  81type   = PHP Error
+code    = 8
+message = PHP Error  Undefined variable: _action  D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php  81
+file    = D:\workspace\project\zeus\zeus.lib\zeus\Zeus.php
+line    = 81
+
+[IP] 127.0.0.1 [TIME] 20:07:42 [MSG] PHP Error  include(index): failed to open stream: No such file or directory  D:\workspace\project\zeus\application\helloword\index.php  14type   = PHP Error
+code    = 2
+message = PHP Error  include(index): failed to open stream: No such file or directory  D:\workspace\project\zeus\application\helloword\index.php  14
+file    = D:\workspace\project\zeus\application\helloword\index.php
+line    = 14
+
+[IP] 127.0.0.1 [TIME] 20:08:58 [MSG] PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14type   = PHP Error
+code    = 2
+message = PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14
+file    = D:\workspace\project\zeus\application\helloword\index.php
+line    = 14
+
+[IP] 127.0.0.1 [TIME] 20:09:13 [MSG] PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14type   = PHP Error
+code    = 2
+message = PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14
+file    = D:\workspace\project\zeus\application\helloword\index.php
+line    = 14
+
+[IP] 127.0.0.1 [TIME] 20:09:46 [MSG] PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14type   = PHP Error
+code    = 2
+message = PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14
+file    = D:\workspace\project\zeus\application\helloword\index.php
+line    = 14
+
+[IP] 127.0.0.1 [TIME] 20:09:48 [MSG] PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14type   = PHP Error
+code    = 2
+message = PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14
+file    = D:\workspace\project\zeus\application\helloword\index.php
+line    = 14
+
+[IP] 127.0.0.1 [TIME] 20:09:55 [MSG] PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14type   = PHP Error
+code    = 2
+message = PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14
+file    = D:\workspace\project\zeus\application\helloword\index.php
+line    = 14
+
+[IP] 127.0.0.1 [TIME] 20:09:56 [MSG] PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14type   = PHP Error
+code    = 2
+message = PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14
+file    = D:\workspace\project\zeus\application\helloword\index.php
+line    = 14
+
+[IP] 127.0.0.1 [TIME] 20:09:57 [MSG] PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14type   = PHP Error
+code    = 2
+message = PHP Error  include(): Filename cannot be empty  D:\workspace\project\zeus\application\helloword\index.php  14
+file    = D:\workspace\project\zeus\application\helloword\index.php
+line    = 14
+
